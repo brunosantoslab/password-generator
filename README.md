@@ -2,7 +2,9 @@
 
 This project is a random password generator using the Tkinter library for the graphical user interface (GUI). The application allows users to generate passwords based on selected criteria, such as length and inclusion of special characters.
 
-![Password Generator Screenshot](assets/password_generator_screenshot.png)
+<p align="center">
+  <img src="assets/password_generator_screenshot.png" alt="Password Generator Screenshot">
+</p>
 
 ## Project Structure
 
